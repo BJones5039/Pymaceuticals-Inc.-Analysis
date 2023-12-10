@@ -5,4 +5,5 @@ Pymaceuticals, Inc. recently initiated screening for potential treatments for sq
 The findings revealed that Capomulin effectively treated SCC tumors in mice, though it was not as potent as Ramicane, which exhibited slightly better margins. This pivotal information shapes our understanding of potential treatments and will be crucial in advancing our anti-cancer medication research.
 
 **Summary Statistics**
+
 ![image](https://github.com/BJones5039/Pymaceuticals-Inc.-Analysis/assets/146404698/4e354e91-4099-495a-90a3-0b20cf4ec077)
