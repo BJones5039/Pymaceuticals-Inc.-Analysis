@@ -7,3 +7,5 @@ The findings revealed that Capomulin effectively treated SCC tumors in mice, tho
 **Summary Statistics**
 
 ![image](https://github.com/BJones5039/Pymaceuticals-Inc.-Analysis/assets/146404698/4e354e91-4099-495a-90a3-0b20cf4ec077)
+
+Please note assistance has been received from Tutors via TA assistance during Office Hours, AskBCS Learning Assistants, and follow classmates via Slack.
